@@ -6,7 +6,7 @@
 
 ### Présentation
 
-Après 14 années dans le commerce dont la moitié à gérer ma boutique d'achat et revente de jeux vidéo en tant que franchisé GameCash, j'ai pris la décision de me réorienter vers le développement Web.
+  Après 14 années dans le commerce dont la moitié à gérer ma boutique d'achat et revente de jeux vidéo en tant que franchisé GameCash, j'ai pris la décision de me réorienter vers le développement Web.
 D'abord formé par l'organisme Doranco au développemnt web de façon large, j'ai voulu me perfectionner en suivant une autre formation avec le Bootcamp La Capsule où j'ai pu me former au langage de programmation JavaScript,
 côté Frontend comme côté Backend, à l'aide de divers Projets. Aujourd'hui je recherche un stage afin d'approfondir mes connaissances et les mettre au service d'une entreprise.
 <br></br>
