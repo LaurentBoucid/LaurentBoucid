@@ -23,7 +23,7 @@ En dehors de mon travail, j'aime les nouvelles technologies, l'art graphique et 
 
 - Email : laurent.boucid@hotmail.fr
 - LinkedIn : [profil LinkedIn](https://www.linkedin.com/in/laurent-boucid-00282126b/)
-- Site Web : [portfolio]
+- Site Web : [portfolio](https://lbportfolio.fr/)
 
 N'hésitez pas à me contacter si vous avez des questions, des opportunités de collaboration ou simplement si vous souhaitez discuter de sujets intéressants.
 
